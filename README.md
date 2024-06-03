@@ -2,8 +2,8 @@ This is a web-based application named "daily expense tracker", built using the D
 
 This project contains: 
 ->Login page <br>
-->Registration page
-->Dashboard
-->Edit & Delete Expense
-->Insert Expense
+->Registration page<br>
+->Dashboard<br>
+->Edit & Delete Expense<br>
+->Insert Expense<br>
 ->Expense Analysis
